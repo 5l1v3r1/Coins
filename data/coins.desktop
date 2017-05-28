@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Coins
+GenericName=Cryptocurrencies watcher
+Comment=Fast and minimal cryptocurrencies watcher
+Categories=GTK;Network;X-SuSE-Core-Internet;
+Exec=coins
+Icon=coins
+Terminal=false
+Type=Application
+MimeType=x-scheme-handler/forecast;
+X-GNOME-Gettext-Domain=forecast

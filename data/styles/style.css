@@ -1,0 +1,48 @@
+/*.titlebar,
+.background {
+	background-color: #2196F3;
+	color: white;
+	icon-shadow: 0 1px 1px shade (#03A9F4, 0.82);
+	text-shadow: 0 1px 1px shade (#03A9F4, 0.82);
+}
+
+GtkDialog .window-frame {
+    border-radius: 4px;
+    box-shadow:
+        0 0 0 1px alpha (shade (#03A9F4 , 0.6), 0.55),
+        0 8px 10px 1px alpha (#000, 0.14),
+        0 3px 14px 2px alpha (#000, 0.12),
+        0 5px 5px -3px alpha (#000, 0.4),
+        0 14px 28px transparent;
+	padding: 10px;
+}*/
+
+.name {
+	font-size: 20px;
+}
+
+.symbol {
+	font-size: 10px;
+}
+
+.price_usd {
+	font-size: 20px;
+}
+
+.price_btc {
+	font-size: 13px;
+}
+
+.percent_title {
+	font-size: 13px;
+}
+
+.percent_red {
+	color: red;
+	font-size: 17px;
+}
+
+.percent_green {
+	color: green;
+	font-size: 17px;
+}

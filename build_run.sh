@@ -1,0 +1,2 @@
+./quickbuild.sh
+./Coins
